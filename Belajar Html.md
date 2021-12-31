@@ -1,7 +1,5 @@
 # Dasar-Dasar HTML,CSS,JAVASCRIP
 
-# Tag Pembuka <> Tag Penutup </>
-
 - HTML / Deklarasi :
   - Dasar
 - Keterangan 
